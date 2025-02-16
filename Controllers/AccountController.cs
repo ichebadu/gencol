@@ -12,5 +12,15 @@ namespace userAuthentication_module.controller
         {
             return View();
         }
+
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        public IActionResult Logout()
+        {
+            return View();
+        }
     }
 }

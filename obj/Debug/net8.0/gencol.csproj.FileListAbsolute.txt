@@ -137,3 +137,4 @@
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.pdb
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.genruntimeconfig.cache
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/ref/gencol.dll
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.sourcelink.json
