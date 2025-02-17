@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gencol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+080ccefc9ac3e1b02e7355f4e26c4fca83b15729")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e2859412b31e972bc839ad25e4f9ec19dd84691")]
 [assembly: System.Reflection.AssemblyProductAttribute("gencol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gencol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
