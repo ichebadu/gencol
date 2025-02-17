@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using userAuthentication_module.data;
-using userAuthentication_module.model;
+using gencol.data;
+using gencol.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Authentication.OAuth;
 

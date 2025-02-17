@@ -1,11 +1,3 @@
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.csproj.AssemblyReference.cache
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.GeneratedMSBuildEditorConfig.editorconfig
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.AssemblyInfoInputs.cache
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.AssemblyInfo.cs
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.csproj.CoreCompileInputs.cache
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.MvcApplicationPartsAssemblyInfo.cache
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.RazorAssemblyInfo.cache
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.RazorAssemblyInfo.cs
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/appsettings.Development.json
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/appsettings.json
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/gencol.staticwebassets.runtime.json
@@ -121,6 +113,15 @@
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/decagon/IdeaProjects/all-C#/gencol/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.csproj.AssemblyReference.cache
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.AssemblyInfoInputs.cache
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.AssemblyInfo.cs
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.csproj.CoreCompileInputs.cache
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.MvcApplicationPartsAssemblyInfo.cache
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.RazorAssemblyInfo.cache
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.RazorAssemblyInfo.cs
+/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.sourcelink.json
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/staticwebassets.build.json
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/staticwebassets.development.json
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/staticwebassets/msbuild.gencol.Microsoft.AspNetCore.StaticWebAssets.props
@@ -137,4 +138,3 @@
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.pdb
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.genruntimeconfig.cache
 /Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/ref/gencol.dll
-/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/gencol.sourcelink.json

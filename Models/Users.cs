@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace userAuthentication_module.model
+namespace gencol.Models
 {
     public class Users : IdentityUser
     {
-        public string fullName {get; set;} = string.Empty;
+        public string FullName {get; set;}
     }
 }

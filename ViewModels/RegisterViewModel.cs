@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace UsersApp.ViewModels
+namespace gencol.ViewModels
 {
     public class RegisterViewModel
     {

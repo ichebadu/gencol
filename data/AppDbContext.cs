@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using userAuthentication_module.model;
+using gencol.Models;
 
-namespace userAuthentication_module.data
+namespace gencol.data
 {
     public class AppDbContext : IdentityDbContext<Users>
     {

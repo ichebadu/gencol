@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IL0qeTvudAM98zduoa5dFCbx0TLlOKasbyosF+vE8Pg=",
+  "Hash": "P8J/X7ibZ8OGDVEB/EPUbGYOR92kJQRjTooMfVyzLCY=",
   "Source": "gencol",
   "BasePath": "_content/gencol",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "/Users/decagon/IdeaProjects/all-C#/gencol/obj/Debug/net8.0/scopedcss/projectbundle/gencol.bundle.scp.css"
     },
     {
+      "Identity": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/css/account.css",
+      "SourceId": "gencol",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/",
+      "BasePath": "_content/gencol",
+      "RelativePath": "css/account.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/account.css"
+    },
+    {
       "Identity": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/css/site.css",
       "SourceId": "gencol",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/images/Screenshot 2024-06-14 at 21.39.13.png",
+      "SourceId": "gencol",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/",
+      "BasePath": "_content/gencol",
+      "RelativePath": "images/Screenshot 2024-06-14 at 21.39.13.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/Screenshot 2024-06-14 at 21.39.13.png"
     },
     {
       "Identity": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/js/site.js",

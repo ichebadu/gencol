@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/gencol.bundle.scp.css"
     },
     {
+      "Id": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/css/account.css",
+      "PackagePath": "staticwebassets/css/account.css"
+    },
+    {
       "Id": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/images/Screenshot 2024-06-14 at 21.39.13.png",
+      "PackagePath": "staticwebassets/images/Screenshot 2024-06-14 at 21.39.13.png"
     },
     {
       "Id": "/Users/decagon/IdeaProjects/all-C#/gencol/wwwroot/js/site.js",
